@@ -2,7 +2,8 @@
 
 A React-based Amazon clone application with shopping cart functionality built using React, Material UI, and TypeScript.
 
-![Amazon Clone Screenshot](https://i.imgur.com/ePjUcTn.png)
+<img width="1440" alt="Screenshot 2025-03-18 at 2 00 52 AM" src="https://github.com/user-attachments/assets/f61c29b4-1baf-4a5c-804c-a711fe6cb362" />
+
 
 ## Features
 
